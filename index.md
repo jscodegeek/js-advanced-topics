@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Javscript: Продвинутые темы
 
 You can use the [editor on GitHub](https://github.com/jscodegeek/js-advanced-topics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
